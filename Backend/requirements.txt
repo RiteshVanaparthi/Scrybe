@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+openai-whisper
+ffmpeg-python
+torch
+numpy
+google-generativeai
+python-dotenv
+openai
